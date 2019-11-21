@@ -1,1 +1,3 @@
 # go_microsvcs
+
+playing with go kit and some transports such as http and grpc...
